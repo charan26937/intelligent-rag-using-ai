@@ -1,0 +1,12 @@
+venv/
+.venv/
+.vscode/
+.env
+**/.env
+__pycache__/
+*.py[cod]
+*.pdf
+**/index.faiss
+**/chunks.json
+**/submission_summary.json
+.streamlit/secrets.toml
